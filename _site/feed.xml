@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-12T07:47:33+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chintu Codes</title><subtitle>learn to code, and play with code</subtitle><entry><title type="html">This is Example Post</title><link href="http://localhost:4000/posts/example/post" rel="alternate" type="text/html" title="This is Example Post" /><published>2019-08-10T11:03:30+05:30</published><updated>2019-08-10T11:03:30+05:30</updated><id>http://localhost:4000/posts/example/exampe-post</id><content type="html" xml:base="http://localhost:4000/posts/example/post">&lt;h1&gt;This is Example Post&lt;/h1&gt;
+
+&lt;p&gt;This is a Example Content&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu pellentesque tortor. Morbi eu magna at sem malesuada tincidunt ut quis dui. Nulla magna neque, ultrices nec egestas sit amet, sagittis et nisi. Etiam nisi massa, gravida sed elementum et, iaculis ac nisl. Aenean diam felis, congue tincidunt aliquet sit amet, hendrerit in ligula. Suspendisse quis erat sit amet ante efficitur mollis vel et enim. Morbi fermentum, quam vitae egestas commodo, augue sapien feugiat justo, sit amet consequat velit urna quis libero. Fusce purus eros, iaculis vel convallis eget, luctus vitae dolor. Phasellus consequat turpis nec turpis varius, eu dapibus justo euismod. Nulla efficitur at est a dictum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec fringilla efficitur lectus, ac venenatis enim condimentum quis. Vivamus ut efficitur mauris, sed pretium justo.&lt;/p&gt;
+
+&lt;h2&gt;Example Subheading&lt;/h2&gt;
+&lt;p&gt;Ut in odio sit amet ante pharetra iaculis. In dapibus bibendum porta. Praesent eu erat urna. Nam blandit, tellus vitae ornare scelerisque, justo erat dictum sapien, eu sollicitudin dolor lacus quis risus. Phasellus consectetur ornare convallis. Praesent commodo auctor magna, sit amet facilisis sapien congue nec. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec interdum, ligula eu pellentesque venenatis, felis est maximus orci, at ultrices lacus quam a odio. Etiam in iaculis nunc, quis mollis tortor.&lt;/p&gt;</content><author><name></name></author><summary type="html">This is Example Post</summary></entry><entry><title type="html">Get Started with jekyll</title><link href="http://localhost:4000/posts/intro-to-jekyll" rel="alternate" type="text/html" title="Get Started with jekyll" /><published>2019-03-31T11:03:30+05:30</published><updated>2019-03-31T11:03:30+05:30</updated><id>http://localhost:4000/posts/get-started-jekll</id><content type="html" xml:base="http://localhost:4000/posts/intro-to-jekyll">&lt;p&gt;Transform your plain text into static websites and blogs&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;h3&gt;What is this?&lt;/h3&gt;
+&lt;p&gt;Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license&lt;/p&gt;
+
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;p&gt;Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server Jekyll is the engine behind GitHub Pages a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.&lt;/p&gt;
+
+&lt;h2&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Check that in Official jekyll Documentation, for install jekyll for your working environment&lt;/p&gt;
+&lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot; target=&quot;_blank&quot;&gt;Jekyll Installination - Docs&lt;/a&gt;
+
+&lt;br&gt;&lt;br&gt;
+&lt;h2&gt;Create an app&lt;/h2&gt;
+
+&lt;p&gt;Create a New Jekyll site, By running that command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;jekyll new mynewsite&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Change your Directory&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cd mynewsite&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then run that following command, to launch your website, on a local developement server&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It Normally launched in 127.0.0.1   (localhost), port 4000&lt;/p&gt;
+
+&lt;p&gt;If you want to change the PORT address, run that following command&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;bundle exec jekyll serve --port mynewportnumber&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Transform your plain text into static websites and blogs</summary></entry></feed>
